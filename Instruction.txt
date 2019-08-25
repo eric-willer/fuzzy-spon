@@ -1,3 +1,5 @@
 Merge exercise
 
 for fun
+
+Change made for sample-branch
